@@ -15,7 +15,7 @@ MonoBehaviour:
   _speed: 10
   _acceleration: 1
   _deceleration: 2
-  _gravityScale: 70
+  _gravityScale: 1
   _normalJumpPower: 25
   _wallJumpPower: 30
   _stickGravity: 0.8
